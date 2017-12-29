@@ -1,0 +1,12 @@
+{
+  "name": "dnd-bot",
+  "version": "1.0.0",
+  "description": "A bot for Discord to help our group do DND things.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Matt Fetterman <navx2810@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
